@@ -1,7 +1,7 @@
 <div align="center">
 
-# Hi, I'm Umair Ul Hassan 👋
-### Full-Stack & Mobile Engineer • Applied AI Systems
+# Umair Ul Hassan
+### Full-Stack Developer | Web, Mobile, SaaS & Applied AI
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-www.umairulhassan.site-0F172A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.umairulhassan.site/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Umair%20Ul%20Hassan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umair-ul-hassan-cs/)
@@ -11,8 +11,7 @@
 <br/>
 
 <p align="center">
-  <b>Building resilient web, mobile, and applied AI systems across SaaS, commerce, and intelligent agents.</b><br/>
-  Hands-on engineering across Next.js 16, React Native, Node.js, FastAPI, PyTorch, and distributed cloud services.
+  <b>I build full-stack web and mobile applications with TypeScript, React, React Native, Node.js, and Python-based AI systems. My work spans multi-vendor commerce, educational ERP, SaaS platforms, mobile AR, and computer vision.</b>
 </p>
 
 ---
@@ -21,9 +20,9 @@
 
 ## 👨‍💻 About Me
 
-- 🚀 **Full-Stack & Mobile Engineer** with extensive experience delivering production web platforms, cross-platform mobile apps, and low-latency AI microservices.
-- 🛠️ **Systems & Architecture**: Proven track record developing multi-vendor marketplaces, QR SaaS recovery platforms, payment engines (Stripe), and real-time telemetry dispatch (Twilio & Resend).
-- 🧠 **Applied AI & Computer Vision**: Experienced building and deploying deep learning pipelines (Vision Transformer ViT-B/16 + PlantNet-300K ensembles) and voice copilots (Groq LLaMA 3.3 70B + Whisper Large v3).
+- 🚀 **Full-Stack Developer** building full-stack web and mobile applications with TypeScript, React, React Native, Node.js, and Python-based AI systems.
+- 🛠️ **Systems & Products**: Proven experience across multi-vendor commerce, educational ERP, SaaS platforms, mobile AR, Stripe payments, and real-time telemetry dispatch (Twilio & Resend).
+- 🧠 **Applied AI & Computer Vision**: Experienced building and integrating deep learning models (Vision Transformer ViT-B/16 + PlantNet-300K ensemble) and voice assistants (Groq LLaMA 3.3 70B + Whisper Large v3).
 - 🏆 **Competitive Problem Solver**: DPSPC 2025 Top 50 Nationwide Finalist out of ~450 competing teams in algorithmic speed programming.
 - 🎓 **Education**: BS in Computer Science from **GIFT University, Gujranwala** (2022 – 2026).
 
@@ -112,7 +111,7 @@
       <p align="center"><b>Real-Time Voice AI Assistant</b></p>
       <ul>
         <li>Voice-first autonomous desktop copilot with sub-700ms end-to-end voice loop using Groq LLaMA 3.3 70B and Whisper Large v3.</li>
-        <li>Executive glassmorphic HUD interface, real-time contextual memory, and automated task execution.</li>
+        <li>Clean cyber-glass UI, real-time contextual memory, and automated task execution.</li>
       </ul>
       <p align="center">
         <code>Python</code> • <code>Groq LLaMA 3.3</code> • <code>Whisper v3</code> • <code>FastAPI</code><br/>
@@ -121,7 +120,7 @@
     </td>
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/umairulhassancs/FinGo">🛒 FinGo — Multi-Vendor Marketplace</a></h3>
-      <p align="center"><b>Pakistan Local E-Commerce Engine</b></p>
+      <p align="center"><b>Pakistan Local E-Commerce Platform</b></p>
       <ul>
         <li>Production marketplace connecting verified vendors across Lahore, Karachi & Islamabad with 57+ live products.</li>
         <li>Comprehensive vendor analytics, order lifecycle tracking, and JWT role-based access control.</li>
@@ -147,10 +146,10 @@
     </td>
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/umairulhassancs/Portfolio">⚡ Interactive Production Portfolio</a></h3>
-      <p align="center"><b>High-Performance Developer Showcase</b></p>
+      <p align="center"><b>Developer Showcase</b></p>
       <ul>
         <li>Production portfolio built with Next.js, Framer Motion, and Three.js 3D elements.</li>
-        <li>Integrated ATS resume viewer, interactive project deep-dives, and responsive executive design.</li>
+        <li>Integrated ATS resume viewer, interactive project deep-dives, and responsive design.</li>
       </ul>
       <p align="center">
         <code>Next.js 16</code> • <code>TypeScript</code> • <code>Tailwind CSS</code> • <code>Framer Motion</code><br/>
