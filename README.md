@@ -4,9 +4,9 @@
 ### Full-Stack & Mobile Engineer • Applied AI Systems
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-www.umairulhassan.site-0F172A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.umairulhassan.site/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Umair%20Ul%20Hassan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umairulhassan/)
-[![Email](https://img.shields.io/badge/Email-umairulhassancs%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:umairulhassancs@gmail.com)
-[![Award](https://img.shields.io/badge/DPSPC%202024-Top%2050%20Finalist-F59E0B?style=for-the-badge&logo=codeforces&logoColor=white)](#-honors--achievements)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Umair%20Ul%20Hassan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umair-ul-hassan-cs/)
+[![Email](https://img.shields.io/badge/Email-umairulhassan.cs%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:umairulhassan.cs@gmail.com)
+[![Award](https://img.shields.io/badge/DPSPC%202025-Top%2050%20Nationwide-F59E0B?style=for-the-badge&logo=codeforces&logoColor=white)](#-honors--achievements)
 
 <br/>
 
@@ -24,8 +24,8 @@
 - 🚀 **Full-Stack & Mobile Engineer** with extensive experience delivering production web platforms, cross-platform mobile apps, and low-latency AI microservices.
 - 🛠️ **Systems & Architecture**: Proven track record developing multi-vendor marketplaces, QR SaaS recovery platforms, payment engines (Stripe), and real-time telemetry dispatch (Twilio & Resend).
 - 🧠 **Applied AI & Computer Vision**: Experienced building and deploying deep learning pipelines (Vision Transformer ViT-B/16 + PlantNet-300K ensembles) and voice copilots (Groq LLaMA 3.3 70B + Whisper Large v3).
-- 🏆 **Competitive Problem Solver**: DPSPC 2024 Top 50 Finalist in national-level algorithmic problem solving across Pakistan.
-- 🎓 **Education**: BS in Computer Science from **FAST National University of Computer and Emerging Sciences** (Expected June 2025).
+- 🏆 **Competitive Problem Solver**: DPSPC 2025 Top 50 Nationwide Finalist out of ~450 competing teams in algorithmic speed programming.
+- 🎓 **Education**: BS in Computer Science from **GIFT University, Gujranwala** (2022 – 2026).
 
 ---
 
@@ -179,8 +179,8 @@
 
 ## 🏆 Honors & Achievements
 
-- **DPSPC 2024 Top 50 Finalist**: Ranked in the Top 50 competitive programmers in Pakistan at the prestigious FAST National University Programming Competition.
-- **Academic Merit**: Solid foundation in algorithms, distributed systems, operating systems, and computer architecture at FAST NUCES.
+- **DPSPC 2025 Top 50 Finalist**: Ranked in the Top 50 teams nationwide out of ~450 competing teams in the Digital Pakistan Speed Programming Competition.
+- **InnovateX 2.0 Coding Competition**: Competed in senior-level algorithmic coding hackathon evaluating optimal time/space complexity and algorithm design.
 
 ---
 
@@ -189,7 +189,7 @@
 <div align="center">
 
 [![Website](https://img.shields.io/badge/Website-umairulhassan.site-0F172A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.umairulhassan.site/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umairulhassan/)
-[![Email](https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:umairulhassancs@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umair-ul-hassan-cs/)
+[![Email](https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:umairulhassan.cs@gmail.com)
 
 </div>
